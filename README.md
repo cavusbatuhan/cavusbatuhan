@@ -5,7 +5,7 @@ MSc Data Science student at TU Wien, with a BEng in Computer Engineering from Er
 
 ## What I'm working on
 
-- **VoiceBuddy v2**: a Turkish desktop voice assistant with offline speech recognition (faster-whisper + Vosk), scikit-learn intent classification and optional LLM chat. Repo coming soon.
+- **[VoiceBuddy](https://github.com/cavusbatuhan/VoiceBuddy)**: a Turkish desktop voice assistant for Windows. Offline speech recognition with faster-whisper; intent classification with scikit-learn and optional LLM chat in progress.
 - Freelance data and AI work on Upwork: LLM and AI assistant evaluation, data collection and annotation, EN–TR app localization.
 
 ## Background
