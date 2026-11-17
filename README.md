@@ -16,7 +16,7 @@ MSc Data Science student at TU Wien, with a BEng in Computer Engineering from Er
 
 ## Tools
 
-Python · pandas · NumPy · scikit-learn · SQL (MySQL) · Jupyter · R · C · ESP32 / MQTT · LLM prompt engineering and evaluation
+Python · pandas · NumPy · scikit-learn · faster-whisper · Vosk · SQL (MySQL) · Jupyter · R · C · Git · GitHub Actions · ESP32 / MQTT · LLM APIs (Claude) · prompt engineering and evaluation
 
 ## Languages
 
